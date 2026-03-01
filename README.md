@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Gson](https://img.shields.io/badge/Gson-2.10.1-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 💱 Conversor de Monedas - Challenge ONE
 
 ## 📋 Descripción del Proyecto
